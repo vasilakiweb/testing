@@ -1,0 +1,13 @@
+// === Footer ===
+.footer {
+    padding: 30px 0;
+    text-align: center;
+    background-color: #000000;
+    &__coopyright {
+        color: #3b3b3b;
+        margin-top: 10px;
+    }
+}
+.social-media__icon--footer {
+    font-size: 30px;
+}
